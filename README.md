@@ -1,4 +1,4 @@
-# Image Editor
+# Monster Chase
 
 A game of catch-up for two.
 
